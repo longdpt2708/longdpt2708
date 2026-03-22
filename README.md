@@ -1,4 +1,4 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Do Pham Trieu Long
+Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is DPTX
 ==========================================================================================================================================
 
 Web Developer
@@ -7,7 +7,7 @@ Web Developer
 LONG DESCRIPTTION
 
 * 🌍  I'm based in Viet Nam
-* 🖥️  See my portfolio at [longdpt.com](http://longdpt.com)
+* 🖥️  See my portfolio at [dptx.com](http://dptx.dev)
 * ✉️  You can contact me at [longngayngo2708@gmail.com](mailto:longngayngo2708@gmail.com)
 * 🚀  I'm currently working on [DXC Technology](http://(s):dxc.com)
 * 🧠  I'm learning I'M CURRENTLY LEARNING:
